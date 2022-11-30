@@ -2,7 +2,7 @@
   "name": "google",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://upasna9.github.io/authentication",
+  "homepage": "https://github.com/Upasna9/auth",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
